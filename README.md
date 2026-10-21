@@ -39,11 +39,18 @@ Questo primo catalogo privilegia progetti applicativi e casi di studio. Le eserc
 
 ## Slide
 
-La cartella `SLIDE/` raccoglierà presentazioni di supporto. Le slide affrontano **parzialmente** alcuni capitoli e non sostituiscono il volume.
+Presentazioni in PDF nella cartella [SLIDE](SLIDE/), organizzate per capitolo e numero progressivo della lezione. La prima lezione riguarda i capitoli 1 e 2; le altre il capitolo 2. La numerazione 01–06 segue l’ordine delle lezioni.
 
-Per ciascuna presentazione verranno indicati titolo, capitoli/paragrafi coperti, formato e versione. Schema dei nomi: `SLIDE_Cap08_Perceptron_Iris_v1.0.pptx` oppure `SLIDE_Cap09-10_Chatbot_AI_IoT_v1.0.pdf`.
+| Lezione | PDF | Riferimenti al libro | Argomenti |
+| --- | --- | --- | --- |
+| 01 | [Apri PDF](SLIDE/Cap_01-02_Lezione_01_Scienza_Informatica_Paradigmi_Algoritmi.pdf) | 1.1–1.8; 2.1–2.3 | Scienza informatica, dati, astrazione e pensiero computazionale; paradigmi, programmazione strutturata e algoritmi |
+| 02 | [Apri PDF](SLIDE/Cap_02_Lezione_02_Progettazione_Ciclo_Vita_Compilazione.pdf) | 2.3–2.6 | Euclide/MCD, progettazione, ciclo di vita del software, compilazione e interpretazione |
+| 03 | [Apri PDF](SLIDE/Cap_02_Lezione_03_Architettura_Hardware_Macchina_Turing.pdf) | 2.7–2.9 | Architettura hardware, CPU e bus, Fetch–Decode–Execute, automi e Macchina di Turing |
+| 04 | [Apri PDF](SLIDE/Cap_02_Lezione_04_Codifica_Informazione_Logica_Booleana.pdf) | 2.10–2.13 | Bit, byte, numeri, ASCII/Unicode, proposizioni, connettivi e tabelle di verità |
+| 05 | [Apri PDF](SLIDE/Cap_02_Lezione_05_Ambiente_Sviluppo_Strutture_Controllo.pdf) | 2.14–2.15 | Python, Visual Studio Code, Flowgorithm, pseudocodice, selezione e cicli |
+| 06 | [Apri PDF](SLIDE/Cap_02_Lezione_06_Variabili_Operatori_Algoritmi_Iterativi.pdf) | 2.16–2.17 | Variabili e scope, tipi, operatori, stringhe, algoritmi iterativi ed esercizi |
 
-Le presentazioni effettive e la loro copertura saranno elencate dopo la verifica dei file.
+Le corrispondenze sono tematiche: le slide supportano lo studio e la didattica, senza sostituire il volume o coprire necessariamente tutti i sottoparagrafi indicati. I collegamenti funzionano quando i PDF sono caricati nella cartella SLIDE con i nomi previsti.
 
 ## Uso del materiale
 
