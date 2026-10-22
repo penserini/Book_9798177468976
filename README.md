@@ -75,7 +75,7 @@ Presentazioni nella cartella [SLIDE](SLIDE/), organizzate per capitolo e numero 
 | 30 | [Apri PDF](SLIDE/Cap_10_Par_10_09_28_Lezione_30_PlantPhoto_Project_Work_v1.0.pdf) · [PowerPoint](SLIDE/Cap_10_Par_10_09_28_Lezione_30_PlantPhoto_Project_Work_v1.0.pptx) | 10.9.28 | Quattro problemi di consolidamento: workflow, limiti della foto, rete e autenticazione API; soluzioni e rubrica |
 | 31 | [Apri PDF](SLIDE/Cap_10_Par_10_09_15-10_09_23_Lezione_31_PlantPhoto_Dal_Diagramma_Al_Codice_v2.0.pdf) · [PowerPoint](SLIDE/Cap_10_Par_10_09_15-10_09_23_Lezione_31_PlantPhoto_Dal_Diagramma_Al_Codice_v2.0.pptx) | 10.9.15–10.9.23; richiami 10.9.26–10.9.27 | Lettura dei moduli FastAPI, proposte, validazione immagini, Flowise client, ReviewStore/SQLite e autorizzazioni |
 
-Le corrispondenze sono tematiche: le slide supportano lo studio e la didattica, senza sostituire il volume o coprire necessariamente tutti i sottoparagrafi indicati. I collegamenti funzionano quando i PDF sono caricati nella cartella SLIDE con i nomi previsti.
+Le corrispondenze sono tematiche: le slide supportano lo studio e la didattica, senza sostituire il volume o coprire necessariamente tutti i sottoparagrafi indicati.
 
 ## Uso del materiale
 
